@@ -6,4 +6,4 @@ jobs:
     name: Hello
     steps:
       - name: Hello
-        uses: sekidenkiku/actionTest@v1.0.0
+        uses: sekidenkiku/actionsTest@v1.0.0
