@@ -6,6 +6,6 @@ jobs:
     name: Hello
     steps:
       - name: Hello
-        uses: github-actions-up-and-running/actionTest@v1.0.0
+        uses: sekidenkiku/actionTest@v1.0.0
         # OK
      
